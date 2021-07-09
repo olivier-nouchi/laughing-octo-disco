@@ -6,7 +6,7 @@ example_app = Flask(__name__)
 
 @example_app.route('/')
 def hello_world():
-    return 'Hello Fellows DS Evening 2020. I wish you a great weekend!'
+    return 'This is a new a push to my app! Have a great weekend'
 
 
 if __name__ == '__main__':
